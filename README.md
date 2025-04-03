@@ -59,15 +59,6 @@ Você encontrará três arquivos principais que contêm o código que faz a magi
 
 Sinta-se livre para explorar, modificar e experimentar o código. O mar é vasto e cheio de descobertas!
 
-#### Mensagens na Garrafa:
-
-Se você encontrar algum bug ou tiver sugestões de melhorias, não hesite em compartilhar seus feedbacks.
-
-Agora com o mapa em mãos e as instruções seguras, você está pronto(a) para desbravar as águas do nosso projeto! 
-
-Que os ventos do aprendizado soprem sempre a seu favor, e que você encontre tesouros de conhecimento em cada linha de código. Boa viagem, e até a próxima aventura!
-
-![](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
 
 
 
