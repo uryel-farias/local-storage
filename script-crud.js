@@ -33,4 +33,19 @@ function criarElementoTarefa(tarefa) {
                 fill="#01080E"></path>
         </svg>
     `
+
+    const paragrafo = document.createElement('p')
+    paragrafo.textContent = tarefa.descricao
+
+    const botao = document.createElement('button')
+    const imagemBotao = document.createElement('img')
+
+    const imagemBotao = document.createElement('img')
+    imagemBotao.setAttribute('src', '/imagens/edit.png')
+
+    botao.append(imagemBotao)
+
+    li.append(svg)
+    li.append(paragrafo)
+    li.append(botao)
 }
